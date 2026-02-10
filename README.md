@@ -1,9 +1,9 @@
 # Hi, I'm Nada Khafagy 👋
 
 ### 🧪 Chemical & Environmental Engineering Student @ Zewail City
-**Junior Research Assistant (Materials Science) | STEM Alumna '24 | IoT Enthusiast**
+**Junior Research Assistant (Materials Science) | STEM Alumna '24 **
 
-I specialize in applying **Engineering, IoT, and Data Science** to solve environmental challenges. From waste management to renewable energy, I build technical solutions for a sustainable future.
+I specialize in applying Engineering, Research, and Data Analysis to solve environmental challenges. From circular waste management to renewable energy, I design technical solutions for a sustainable future.
 
 ---
 
