@@ -1,4 +1,4 @@
-# Hi, I'm Nada Khafagy 👋
+# Hi, I'm Nada Khafagy 
 
 ### 🧪 Chemical & Environmental Engineering Student @ Zewail City
 **Junior Research Assistant (Materials Science) | STEM Alumna '24 **
